@@ -85,3 +85,8 @@ $(document).ready(function(){
     $("body").css('overflow', 'auto');
   });
 })
+
+$(document).ready(function(){
+  console.log("Hello again")
+  alert("Hello from updated Github");
+});
